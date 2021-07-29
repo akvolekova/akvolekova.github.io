@@ -1,8 +1,8 @@
 ---
 id: about
-name: About
-heading: This First Heading
-subheading: Will Catch Your Eye
+name: O nás
+heading: O nás
+subheading: Sme profesionálna právna kancelária s dlhoročnou praxou.
 image: "http://placehold.it/500x500"
 ---
 

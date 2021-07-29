@@ -1,8 +1,8 @@
 ---
 id: contact
-name: Contact
-heading: The Third Heading
-subheading: Will Seal the Deal.
+name: Kontakty
+heading: Kontakty
+subheading: Pobočka Bratislava.
 image: "http://placehold.it/500x500"
 ---
 

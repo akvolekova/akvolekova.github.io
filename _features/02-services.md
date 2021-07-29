@@ -1,8 +1,8 @@
 ---
 id: services
-name: Services
-heading: The Second Heading
-subheading: Is Pretty Cool Too.
+name: Naše služby
+heading: Naše služby
+subheading: Poskytujeme právne služby vo všetkých právnych oblastiach.
 image: "http://placehold.it/500x500"
 ---
 
