@@ -1,9 +1,9 @@
 title: Advokátska kancelária Voleková
 description: Advokátska kancelária Voleková poskytuje kvalitné poradenstvo v oblasti vo všektých právnych oblastiach. Prvotriedne služby sú zabezpečené dlhoročnými skúsenosťami a množstvom spokojných klientov.
 sitename: Advokátska kancelária Voleková
-baseurl: '/'
+baseurl: ''
 sass:
-  sass_dir: /assets/_sass
+  sass_dir: assets/_sass
   style: :compressed
 collections:
   - features

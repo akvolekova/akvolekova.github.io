@@ -3,7 +3,7 @@ id: services
 name: Naše služby
 heading: Naše služby
 subheading: Poskytujeme právne služby vo všetkých právnych oblastiach.
-image: "http://placehold.it/500x500"
+image: "assets/images/services.jpg"
 ---
 
-Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.
+Poskytujeme právne skužby a poradenstvo vo všetkých právnych oblastiach. 
